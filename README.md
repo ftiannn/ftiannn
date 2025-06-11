@@ -111,9 +111,11 @@ Back then, I mostly used Java and C++, and never imagined I'd end up building fu
 
 My journey started with game dev — a little janky, a lot of spaghetti code, but hey, it ran (mostly). It didn’t change the world, but it did change mine — sparking a love for building things that actually work (eventually). 🌟
 
-<div align="center">
-- [Unity Game Demo](https://drive.google.com/file/d/0BwxJ8OfO6B2PNHhERWc1eko2OEU/view?usp=sharing&resourcekey=0-6qWk6WFGIqArHAedvXxgdQ)  <br>
-- [Unreal Game Demo](https://drive.google.com/file/d/1rKOD60BC3j9qaaBD5m8i_TthQs_w6mpe/view?usp=sharing)
+<div align="left">
+
+[![Unreal Game Demo](https://img.shields.io/badge/🎮_Unreal_Demo-Watch_Now!-00D4FF?style=for-the-badge&logo=unrealengine&logoColor=white)](https://drive.google.com/file/d/1rKOD60BC3j9qaaBD5m8i_TthQs_w6mpe/view?usp=sharing)
+[![Unity Game Demo](https://img.shields.io/badge/🎮_Unity_Demo-Watch_Now!-FF69B4?style=for-the-badge&logo=unity&logoColor=white)](https://drive.google.com/file/d/0BwxJ8OfO6B2PNHhERWc1eko2OEU/view?usp=sharing&resourcekey=0-6qWk6WFGIqArHAedvXxgdQ)
+
 </div>
 
 
