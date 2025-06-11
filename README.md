@@ -107,6 +107,7 @@ Back then, I mostly used Java and C++, and never imagined I'd end up building fu
 - 🌟 Open-source contribution *(someday, hopefully)*
 
 <div id="game-demos"></div>
+
 ## 🎮 Where It All Started
 
 My journey started with game dev — a little janky, a lot of spaghetti code, but hey, it ran (mostly). It didn’t change the world, but it did change mine — sparking a love for building things that actually work (eventually). 🌟
