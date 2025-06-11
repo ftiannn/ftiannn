@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&width=500&lines=✨+Developer+%7C+Builder+%7C+Creator+✨;🎮+From+Game+Dev+to+Full+Stack+🌐;🚀+Always+Learning%2C+Always+Building+💡;☕+Making+Things+Better%2C+One+Line+at+a+Time+🎨" alt="Typing SVG" />
 </div>
 
-I'm a developer who stumbled into tech through game development. My first real project was a 3D game built in Unity — and later rebuilt in Unreal for my college final-year project. I still keep a clip of that game — it reminds me where I started. 🎮✨
+I'm a developer who stumbled into tech through game development. My first real project was a 3D game built in Unity — and later in Unreal for my college final-year project. I still keep a clip of that game — it reminds me where I started. 🎮✨
 
 Back then, I mostly used Java and C++, and never imagined I'd end up building full-stack web apps or tinkering with cloud infrastructure. But here I am — constantly learning, building, and enjoying the process. 💫
 
