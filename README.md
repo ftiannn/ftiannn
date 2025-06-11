@@ -108,10 +108,11 @@ Back then, I mostly used Java and C++, and never imagined I'd end up building fu
 
 
 ## 🎮 Where It All Started
+<div id="game-demos"></div>
 
 My journey started with game dev — a little janky, a lot of spaghetti code, but hey, it ran (mostly). It didn’t change the world, but it did change mine — sparking a love for building things that actually work (eventually). 🌟
 
-<div align="left" id="game-demos">
+<div align="left">
   <p>🕹️ <a href="https://drive.google.com/file/d/1rKOD60BC3j9qaaBD5m8i_TthQs_w6mpe/view?usp=sharing" target="_blank">Unreal Game Demo</a></p>
   <p>🎮 <a href="https://drive.google.com/file/d/0BwxJ8OfO6B2PNHhERWc1eko2OEU/view?usp=sharing&resourcekey=0-6qWk6WFGIqArHAedvXxgdQ" target="_blank">Unity Game Demo</a></p>
 </div>
@@ -147,7 +148,7 @@ I care about the little details and always ask:
 
 ## 📬 Let's Connect
 
-I'm always open to meaningful conversations, collaborative side projects, or just geeking out over productivity tools. Feel free to <a href="#top>reach out!</a>
+I'm always open to meaningful conversations, collaborative side projects, or just geeking out over productivity tools. Feel free to [reach out](#top)!
 
 <br>
 <em>Thanks for stopping by! </em>
