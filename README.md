@@ -110,7 +110,9 @@ Back then, I mostly used Java and C++, and never imagined I'd end up building fu
 
 ## 🎮 Where It All Started
 
-My journey started with game dev — a little janky, a lot of spaghetti code, but hey, it ran (mostly). It didn’t change the world, but it did change mine — sparking a love for building things that actually work (eventually). 🌟
+My journey started with game dev — a little janky, a lot of spaghetti code, but hey, it ran <em>(mostly)</em>. 
+
+It didn’t change the world, but it did change mine — sparking a love for building things that actually work (eventually). 🌟
 
 <div align="left">
   <p>🕹️ <a href="https://drive.google.com/file/d/1rKOD60BC3j9qaaBD5m8i_TthQs_w6mpe/view?usp=sharing" target="_blank">Unreal Game Demo</a></p>
