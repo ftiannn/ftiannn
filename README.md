@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&width=500&lines=✨+Developer+%7C+Builder+%7C+Creator+✨;🎮+From+Game+Dev+to+Full+Stack+🌐;🚀+Always+Learning%2C+Always+Building+💡;☕+Making+Things+Better%2C+One+Line+at+a+Time+🎨" alt="Typing SVG" />
 </div>
 
-I'm a developer who stumbled into tech through game development. My first real project was a 3D game built in Unity — and later in Unreal for my college final-year project. I still keep a clip of that game — it reminds me where I started. 🎮✨
+I'm a developer who stumbled into tech through game development. My first real project was a 3D game built in Unity — and later in Unreal for my college final-year project. I still keep a [clip of those games](#game-demos) — it reminds me where I started. 🎮✨
 
 Back then, I mostly used Java and C++, and never imagined I'd end up building full-stack web apps or tinkering with cloud infrastructure. But here I am — constantly learning, building, and enjoying the process. 💫
 
@@ -111,7 +111,7 @@ Back then, I mostly used Java and C++, and never imagined I'd end up building fu
 
 My journey started with game dev — a little janky, a lot of spaghetti code, but hey, it ran (mostly). It didn’t change the world, but it did change mine — sparking a love for building things that actually work (eventually). 🌟
 
-<div align="left">
+<div align="left" id="game-demos">
   <p>🕹️ <a href="https://drive.google.com/file/d/1rKOD60BC3j9qaaBD5m8i_TthQs_w6mpe/view?usp=sharing" target="_blank">Unreal Game Demo</a></p>
   <p>🎮 <a href="https://drive.google.com/file/d/0BwxJ8OfO6B2PNHhERWc1eko2OEU/view?usp=sharing&resourcekey=0-6qWk6WFGIqArHAedvXxgdQ" target="_blank">Unity Game Demo</a></p>
 </div>
@@ -147,7 +147,8 @@ I care about the little details and always ask:
 
 ## 📬 Let's Connect
 
-I'm always open to meaningful conversations, collaborative side projects, or just geeking out over productivity tools. Feel free to reach out!
+I'm always open to meaningful conversations, collaborative side projects, or just geeking out over productivity tools. Feel free to <a href="#top>reach out!</a>
 
+<br>
 <em>Thanks for stopping by! </em>
 
