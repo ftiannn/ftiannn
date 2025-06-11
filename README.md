@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&width=500&lines=✨+Developer+%7C+Builder+%7C+Creator+✨;🎮+From+Game+Dev+to+Full+Stack+🌐;🚀+Always+Learning%2C+Always+Building+💡;☕+Making+Things+Better%2C+One+Line+at+a+Time+🎨" alt="Typing SVG" />
 </div>
 
-I'm a developer who stumbled into tech through game development. My first real project was a 3D game built in Unity — and later in Unreal for my college final-year project. I still keep a [clip of those games](#game-demos) — it reminds me where I started. 🎮✨
+I'm a developer who stumbled into tech through game development. My first real project was a 3D game built in Unity — and later in Unreal for my college final-year project. I still keep a [clip of those games](#game-demos) and it reminds me where I started. 🎮✨
 
 Back then, I mostly used Java and C++, and never imagined I'd end up building full-stack web apps or tinkering with cloud infrastructure. But here I am — constantly learning, building, and enjoying the process. 💫
 
@@ -110,9 +110,8 @@ Back then, I mostly used Java and C++, and never imagined I'd end up building fu
 
 ## 🎮 Where It All Started
 
-My journey started with game dev — a little janky, a lot of spaghetti code, but hey, it ran <em>(mostly)</em>. 
-
-It didn’t change the world, but it did change mine — sparking a love for building things that actually work (eventually). 🌟
+My journey started with game dev — a little janky, a lot of spaghetti code, but hey, it ran *(mostly)*. 
+It didn’t change the world, but it did change mine — sparking a love for building things that actually work! 🌟
 
 <div align="left">
   <p>🕹️ <a href="https://drive.google.com/file/d/1rKOD60BC3j9qaaBD5m8i_TthQs_w6mpe/view?usp=sharing" target="_blank">Unreal Game Demo</a></p>
@@ -128,12 +127,12 @@ Part developer, part daydreamer, full-time coffee-powered creator.
 When I’m not coding, you’ll find me:
 - 🎨 Creating digital portraits (some friends owe me coffee now)
 - 🎵 Singing and curating oddly specific Spotify playlists.
-- 🎮 Replaying The Sims 4 instead of cleaning my real house.
+- 🎮 Replaying *The Sims 4* instead of cleaning my real house.
 - 🎮 Speeding in Mario Kart like it’s a personality trait.
 - 🧙‍♀️ Rewatching Harry Potter for the 88th time.
 - 📺 Living on YouTube — my ultimate escape and source of inspiration.
 - 🤖 ChatGPT-ing — because even code needs emotional support sometimes.
-- 🏋️ At the gym *(even though it hits me harder every time 🥲)*
+- 🏋️ At the gym *(even though it hits me harder every time)* 🥲
 
 I care about the little details and always ask:  
 **“How can I make this better?”** ✨  
@@ -154,7 +153,7 @@ I care about the little details and always ask:
 
 I'm always open to meaningful conversations, collaborative side projects, or just geeking out over productivity tools. 
 <br>
-Feel free to [reach out](#top)!
+Feel free to [reach out](mailto:tanft25@gmail.com)!
 
 ---
 <em>Thanks for stopping by! ✨ </em>
