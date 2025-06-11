@@ -134,9 +134,10 @@ When I’m not coding, you’ll find me:
 - 🤖 ChatGPT-ing — because even code needs emotional support sometimes.
 - 🏋️ At the gym *(even though it hits me harder every time 🥲)*
 
-I care about the little details and always ask:
-"How can I make this better?"
-...and sometimes, "Do I really need to rewrite this function again?"
+I care about the little details and always ask:  
+**“How can I make this better?”** ✨  
+...and sometimes,  
+**“Do I really need to rewrite this function again?”** 😅
 
 ### ⚡💫 Fun Facts
 <blockquote>
