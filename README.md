@@ -121,7 +121,7 @@ My journey started with game dev — a little janky, a lot of spaghetti code, bu
 
 ## ☕💖 A Bit More About Me
 
-**📍 Based in Singapore** 🇸🇬
+**📍 Based in Singapore** <br>
 Part developer, part daydreamer, full-time coffee-powered creator.
 
 When I’m not coding, you’ll find me:
