@@ -106,9 +106,8 @@ Back then, I mostly used Java and C++, and never imagined I'd end up building fu
 - 🛠️ Developer tooling & experience
 - 🌟 Open-source contribution *(someday, hopefully)*
 
-
-## 🎮 Where It All Started
 <div id="game-demos"></div>
+## 🎮 Where It All Started
 
 My journey started with game dev — a little janky, a lot of spaghetti code, but hey, it ran (mostly). It didn’t change the world, but it did change mine — sparking a love for building things that actually work (eventually). 🌟
 
@@ -146,10 +145,14 @@ I care about the little details and always ask:
 🍦 Chocolate chip ice cream is not a dessert. It’s a love language.<br> 
 </blockquote>
 
+---
+
 ## 📬 Let's Connect
 
-I'm always open to meaningful conversations, collaborative side projects, or just geeking out over productivity tools. Feel free to [reach out](#top)!
-
+I'm always open to meaningful conversations, collaborative side projects, or just geeking out over productivity tools. 
 <br>
-<em>Thanks for stopping by! </em>
+Feel free to [reach out](#top)!
+
+---
+<em>Thanks for stopping by! ✨ </em>
 
