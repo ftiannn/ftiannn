@@ -20,8 +20,8 @@ Back then, I mostly used Java and C++, and never imagined I'd end up building fu
 **A full-featured habit tracker built across web and mobile — created as a passion project during a career break. 🌱**
 
 <div align="left">
-🌐 Live App: [app.myhabitly.com](https://app.myhabitly.com) <br>
-📚 API Docs: [api.myhabitly.com/docs](https://api.myhabitly.com/docs) <br>
+  🌐 Live App: <a href="https://app.myhabitly.com">app.myhabitly.com</a><br>
+  📚 API Docs: <a href="https://api.myhabitly.com/docs">api.myhabitly.com/docs</a>
 </div>
 
 <br>
