@@ -129,7 +129,7 @@ When I’m not coding, you’ll find me:
 - 🎵 Singing and curating oddly specific Spotify playlists.
 - 🎮 Replaying *The Sims 4* instead of cleaning my real house.
 - 🎮 Speeding in Mario Kart like it’s a personality trait.
-- 🧙‍♀️ Rewatching Harry Potter for the 88th time.
+- 🧙‍♀️ Rewatching Harry Potter for the 394th time.
 - 📺 Living on YouTube — my ultimate escape and source of inspiration.
 - 🤖 ChatGPT-ing — because even code needs emotional support sometimes.
 - 🏋️ At the gym *(even though it hits me harder every time)* 🥲
