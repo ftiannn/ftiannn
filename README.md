@@ -52,7 +52,6 @@ Back then, I mostly used Java and C++, and never imagined I'd end up building fu
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-
   </td>
 </tr>
 
@@ -78,7 +77,7 @@ Back then, I mostly used Java and C++, and never imagined I'd end up building fu
 </table>
 
 <details>
-<summary><strong>📋 Detailed Experience</strong></summary>
+<summary><strong>📋 Detailed Stack</strong></summary>
 
 ### 🌐 Web Development
 - **Frontend**: React · Vue2 · Next.js · AngularJS · Vite · TailwindCSS · Capacitor  
@@ -110,37 +109,44 @@ Back then, I mostly used Java and C++, and never imagined I'd end up building fu
 
 ## 🎮 Where It All Started
 
-> *“This is where it all began.”*
-- [Unity Game Demo](https://drive.google.com/file/d/0BwxJ8OfO6B2PNHhERWc1eko2OEU/view?usp=sharing&resourcekey=0-6qWk6WFGIqArHAedvXxgdQ)  
-- [Unreal Game Demo](https://drive.google.com/file/d/1rKOD60BC3j9qaaBD5m8i_TthQs_w6mpe/view?usp=sharing)
+My journey started with game dev — a little janky, a lot of spaghetti code, but hey, it ran (mostly). It didn’t change the world, but it did change mine — sparking a love for building things that actually work (eventually). 🌟
+
+<div align="center">
+[![Unity Demo](https://img.shields.io/badge/🎮_Unity_Demo-Watch_Now!-FF69B4?style=for-the-badge&logo=unity&logoColor=white)](https://drive.google.com/file/d/0BwxJ8OfO6B2PNHhERWc1eko2OEU/view?usp=sharing&resourcekey=0-6qWk6WFGIqArHAedvXxgdQ)
+[![Unreal Demo](https://img.shields.io/badge/🎮_Unreal_Demo-Watch_Now!-00D4FF?style=for-the-badge&logo=unrealengine&logoColor=white)](https://drive.google.com/file/d/1rKOD60BC3j9qaaBD5m8i_TthQs_w6mpe/view?usp=sharing)
+</div>
 
 
 ## ☕💖 A Bit More About Me
 
 **📍 Based in Singapore** 🇸🇬
+Part developer, part daydreamer, full-time coffee-powered creator.
 
-When I'm not coding, you'll find me:
-- 🎨 Creating digital portraits for friends
-- 🎵 Singing and exploring music
-- ✈️ Planning detailed travel itineraries
+When I’m not coding, you’ll find me:
+- 🎨 Creating digital portraits (some friends owe me coffee now)
+- 🎵 Singing and curating oddly specific Spotify playlists.
+- 🎮 Replaying The Sims 4 instead of cleaning my real house.
+- 🎮 Speeding in Mario Kart like it’s a personality trait.
+- 🧙‍♀️ Rewatching Harry Potter for the 88th time.
+- 📺 Living on YouTube — my ultimate escape and source of inspiration.
+- 🤖 ChatGPT-ing — because even code needs emotional support sometimes.
 - 🏋️ At the gym *(even though it hits me harder every time 🥲)*
 
-I care about the little details and always ask:  
-**"How can I make this better?"** ✨
+I care about the little details and always ask:
+"How can I make this better?"
+...and sometimes, "Do I really need to rewrite this function again?"
 
 ### ⚡💫 Fun Facts
-
 <blockquote>
-💭 I plan full itineraries for trips I haven't even booked yet *(hello, Spain, Yunnan and Vietnam 👋)*<br>
-🍦 I love ice cream — especially chocolate chip. Who says no to that?<br>
+🧯 I wanted to be a firefighter as a kid. Now I fight bugs and deploy hotfixes. Same energy.<br>
+💻 I truly believe anything can be solved with a cup of coffee and a *few* (hundreds? thousands?) lines of code.<br> 
+🧳 I plan trips I haven’t booked and have spreadsheets for vacations that don’t exist yet.<br> 
+🍦 Chocolate chip ice cream is not a dessert. It’s a love language.<br> 
 </blockquote>
 
 ## 📬 Let's Connect
 
-I'm always open to meaningful conversations, collaborative side projects, or just geeking out over productivity tools. Feel free to reach out! 🌟
+I'm always open to meaningful conversations, collaborative side projects, or just geeking out over productivity tools. Feel free to reach out!
 
-<div align="center">
-  <em>Thanks for stopping by! ✨</em>
-  <br>
-</div>
+<em>Thanks for stopping by! </em>
 
