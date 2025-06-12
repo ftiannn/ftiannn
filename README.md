@@ -11,7 +11,7 @@ Back then, I mostly used Java and C++, and never imagined I'd end up building fu
 <div align="center"> 
   <a href="https://portfolio.example.com" target="_blank"> <img src="https://img.shields.io/badge/🌟 Portfolio-Coming Soon!-f9a8d4?style=for-the-badge&logo=notion&logoColor=white" /> </a> 
   <a href="https://instagram.com/ftiannn" target="_blank"> <img src="https://img.shields.io/badge/📸 Instagram-@ftiannn-f472b6?style=for-the-badge&logo=instagram&logoColor=white" /> </a> 
-  <a href="mailto:tanft25@gmail.com"> <img src="https://img.shields.io/badge/💌 Email-tanft25@gmail.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
+  <a href="mailto:fangtian@heyft.com"> <img src="https://img.shields.io/badge/💌 Email-fangtian@heyft.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
 
 
 ## 🔨 What I’ve Built Recently
