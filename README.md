@@ -149,10 +149,6 @@ I care about the little details and always ask:
 
 ---
 
-
-![](https://komarev.com/ghpvc/?username=ftiannn&color=blue)
-
-
 ## 📬 Let's Connect
 
 I'm always open to meaningful conversations, collaborative side projects, or just geeking out over productivity tools. 
