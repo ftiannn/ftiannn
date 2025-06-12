@@ -153,7 +153,7 @@ I care about the little details and always ask:
 
 I'm always open to meaningful conversations, collaborative side projects, or just geeking out over productivity tools. 
 <br>
-Feel free to [reach out](mailto:tanft25@gmail.com)!
+Feel free to [reach out](mailto:fangtian@heyft.com)!
 
 ---
 <em>Thanks for stopping by! ✨ </em>
