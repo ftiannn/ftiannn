@@ -26,6 +26,7 @@ Back then, I mostly used Java and C++, and never imagined I'd end up building fu
 
 <br>
 ✨ Key Features:
+
 - 🎯 Cross-platform support (React + Capacitor)<br>
 - 🔒 Secure authentication with JWT and Google OAuth<br>
 - 🎮 Gamification elements: streaks, mood tracking, quotes, celebrations<br>
