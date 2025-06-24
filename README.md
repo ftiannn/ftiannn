@@ -125,13 +125,14 @@ It didn’t change the world, but it did change mine — sparking a love for bui
 Part developer, part daydreamer, full-time coffee-powered creator.
 
 When I’m not coding, you’ll find me:
+- ✈️ Travelling for food, vibes, and fresh air
+- 📸 Capturing moments that feel like a movie still
 - 🎨 Creating digital portraits (some friends owe me coffee now)
 - 🎵 Singing and curating oddly specific Spotify playlists.
-- 🎮 Replaying *The Sims 4* instead of cleaning my real house.
+- 🎮 Playing *The Sims 4* instead of cleaning my real house.
 - 🎮 Speeding in Mario Kart like it’s a personality trait.
 - 🧙‍♀️ Rewatching Harry Potter for the 394th time.
 - 📺 Living on YouTube — my ultimate escape and source of inspiration.
-- 🤖 ChatGPT-ing — because even code needs emotional support sometimes.
 - 🏋️ At the gym *(even though it hits me harder every time)* 🥲
 
 I care about the little details and always ask:  
