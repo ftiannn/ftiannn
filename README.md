@@ -9,7 +9,7 @@ I'm a developer who stumbled into tech through game development. My first real p
 Back then, I mostly used Java and C++, and never imagined I'd end up building full-stack web apps or tinkering with cloud infrastructure. But here I am — constantly learning, building, and enjoying the process. 💫
 
 <div align="center"> 
-  <a href="https://heyft.com" target="_blank"> <img src="https://img.shields.io/badge/🌟 Portfolio-HEYFT.com-f9a8d4?style=for-the-badge&logo=notion&logoColor=white" /> </a> 
+  <a href="https://www.heyft.com/from-github" target="_blank"> <img src="https://img.shields.io/badge/🌟 Portfolio-HEYFT.com-f9a8d4?style=for-the-badge&logo=notion&logoColor=white" /> </a> 
   <a href="https://instagram.com/ftiannn" target="_blank"> <img src="https://img.shields.io/badge/📸 Instagram-@ftiannn-f472b6?style=for-the-badge&logo=instagram&logoColor=white" /> </a> 
   <a href="mailto:fangtian@heyft.com"> <img src="https://img.shields.io/badge/💌 Email-fangtian@heyft.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
 
